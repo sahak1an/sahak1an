@@ -19,7 +19,7 @@
 <img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <br/>
 <br/>
-
+<br/>
 
 ![eltonsandre's github stats](https://github-readme-stats.vercel.app/api?username=sahak1an&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dracula)
 
