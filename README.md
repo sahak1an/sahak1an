@@ -20,9 +20,7 @@
 <br/>
 <br/>
 <br/>
-![eltonsandre's github stats](https://github-readme-stats.vercel.app/api?username=sahak1an&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dracula)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahak1an&layout=compact&langs_count=8&hide_border=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahak1an&layout=compact&langs_count=8&hide_border=true&theme=dracula)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sahak1an&theme=horizon&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
