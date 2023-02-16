@@ -20,8 +20,3 @@
 <br/>
 <br/>
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahak1an&layout=compact&langs_count=8&hide_border=true&theme=dracula)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sahak1an&theme=horizon&hide_border=true&border_radius=5)](https://git.io/streak-stats)
-
-<a href="http://www.github.com/eltonsandre"><img src="https://activity-graph.herokuapp.com/graph?username=sahak1an&bg_color=282A36&color=ffffff&line=FF729C&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
